@@ -10,8 +10,15 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+```
+a=eval(input())
+print("n" not in a)
+print("8" in a)
+```
 
 ## Output
+<img width="688" height="173" alt="image" src="https://github.com/user-attachments/assets/ba576424-2dbd-48eb-a37e-b99a652d9601" />
 
 ## Result
+ Python program that checks if the element `'n'` and the element `8` exist within a given tuple is written successfully
+
